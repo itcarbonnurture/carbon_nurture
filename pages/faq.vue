@@ -2,7 +2,7 @@
   <div class="container py-5">
     <!-- Header Section -->
     <header class="mb-5">
-      <h1 class="display-4 mb-3">Privacy Policy</h1>
+      <h3 class=" mb-3">Privacy Policy</h3>
       <p class="text-muted">Last Updated: February 28, 2025</p>
     </header>
 
@@ -285,7 +285,7 @@
 }
 .privacy-content {
   line-height: 1.8;
-  color: #444;
+  color: #000000;
 }
 
 h1, h2, h3, h4 {
