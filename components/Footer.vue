@@ -44,12 +44,12 @@
               <h2 class="footer-heading">Follow Us</h2>
               <ul class="ftco-footer-social p-0">
   <li class="ftco-animate">
-    <a href="#" title="Facebook">
+    <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=61573299985726" title="Facebook">
       <i class="bi bi-facebook social-icon"></i> <!-- Исправлено -->
     </a>
   </li>
   <li class="ftco-animate">
-    <a href="#" title="LinkedIn">
+    <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=61573299985726" title="LinkedIn">
       <i class="bi bi-linkedin social-icon"></i> <!-- Исправлено -->
     </a>
   </li>
@@ -87,20 +87,19 @@
          
           
           <p class="mb-2 text-start">
-           Laboratory located in Massachusetts 
-              Manufactured in North Carolina 115 Morrison Ave, Thomasville, NC 27360
+            121 Loring Ave, Suite 920, Salem, MA 01970.
           </p>
          
         </div>
         <div class="col-6">
-          <p class="mb-2">
+          <p class="mb-0">
             Copyright &copy; {{ currentYear }} All rights reserved
           </p>
           
-          <p class="mb-2">
+          <p class="mb-0">
             <strong>Carbon Nurture</strong>
           </p>
-          <p class="mb-2">
+          <p class="mb-0">
             Created by <a href="https://github.com/lopezdeniz" target="_blank">LopezDeniz</a>
           </p>
         </div>
