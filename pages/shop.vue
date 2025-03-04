@@ -8,7 +8,7 @@ definePageMeta({
         <div class="wix-store">
     <!-- Встраиваем страницу магазина Wix через iframe -->
     <iframe
-      src="https://shop.carbonnurture.com/category/all-products"
+      src="https://carbonnurtureshop.com/category/all-products"
       style="width:100%; height:100vh; border:0; overflow:hidden;"
       frameborder="0"
       allowfullscreen>
