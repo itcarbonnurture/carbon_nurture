@@ -119,12 +119,14 @@
           and service providers retained in connection with the provision of the Site.
         </p>
         <p>
-          With your permission, we may provide Personal Information to third parties for their direct marketing
-          purposes. We may display website and applications advertising to you from third parties. We may
-          display targeted advertising to you on third party-websites. With your permission, we may contact
-          a physician of your choice on your behalf. We use the data collected by the Site to enable the
-          delivery of online advertising on this website or other websites or applications, or otherwise send
-          you information we think may be useful or relevant to you.
+          We do not rent, sell, or share Personal Information about you with other people or nonaffiliated
+companies for their direct marketing purposes, unless we have your permission. With your
+permission, we may provide Personal Information to third parties for their direct marketing
+purposes. We may display website and applications advertising to you from third parties. We may
+display targeted advertising to you on third party-websites. With your permission, we may contact
+a physician of your choice on your behalf. We use the data collected by the Site to enable the
+delivery of online advertising on this website or other websites or applications, or otherwise send
+you information we think may be useful or relevant to you.
         </p>
         <p>
           You may be able to opt out of receiving personalized advertisements from advertisers or
@@ -266,8 +268,9 @@
         <address>
           <strong>Carbon Nurture, Corporation</strong><br>
           121 Loring Ave, Salem, MA 01970<br>
-          <abbr title="Email">Email:</abbr>
-<a href="mailto:contact@carbonnurture.com" class="ms-2">contact@carbonnurture.com</a>
+       
+
+<p>You may also contact us via email at <a href="mailto:contact@carbonnurture.com" class="ms-2">contact@carbonnurture.com</a></p>
 
         </address>
       </section>
