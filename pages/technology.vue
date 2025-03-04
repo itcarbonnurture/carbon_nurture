@@ -413,7 +413,7 @@ display: none;
 .banner-info {
   position: absolute;
   bottom: 0px; /* Отступ от нижнего края баннера */
-  right: 40px; /* Отступ от правого края */
+  right: 15px; /* Отступ от правого края */
   display: flex;
   align-items: center;
   gap: 20px; /* Отступ между текстом и флагом */
