@@ -105,11 +105,16 @@
             <div class="row justify-content-center mt-5">
                 <div class="col-md-8">
                     <div class="standards-box">
-                        <p class="standards-text">
-                            <strong>STANDARDS:</strong> 100% biodegradable per ASTM D6954, 5988 and EN17033 with exposure.
-                            Passes all soil toxicity tests - plants germination and growth per OECD208, earthworms acute toxicity per OECD 207, luminescent bacteria EN ISO 11348-3:2019, freshwater OECD test No. 202 or 211* <br>
-                            *expected to pass these standards based on test data for similar materials.
-                        </p>
+                      <p class="standards-text">
+    <strong>STANDARDS:</strong> 100% biodegradable per ASTM D6954, 5988 and EN17033 with exposure.
+    Passes all soil toxicity tests - plants germination and growth per OECD208, earthworms acute toxicity per OECD 207, luminescent bacteria EN ISO 11348-3:2019, freshwater OECD test No. 202 or 211* <br>
+    *expected to pass these standards based on test data for similar materials.
+    <br> For more information about our product, please see 
+    <a href="/product_information.pdf" class="text-decoration-underline" target="_blank">
+        Product Performance and Test Data.
+    </a>
+</p>
+
                     </div>
                 </div>
             </div>
@@ -177,6 +182,7 @@
  <p class="standards-text">
    <strong>STANDARDS:</strong> 100% biodegradable per ASTM D6954, 5988 and EN17033 with exposure.
  Passes all soil toxicity tests - plants germination and growth per OECD208, earthworms acute toxicity per OECD 207, luminescent bacteria EN ISO 11348-3:2019, freshwater OECD test No. 202 or 211* <br> *expected to pass these standards based on test data for similar materials.
+<br> For more information about our product, please see Product Performance and Test Data.
 </p>
 </div>
 
