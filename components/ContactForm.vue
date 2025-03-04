@@ -65,11 +65,10 @@
 <div class="contact-info">
     <p>contact@carbonnurture.com</p>
     <p>
-      Laboratory located in Massachusetts<br>
-      Manufactured in North Carolina 115 Morrison Ave, Thomasville, NC 27360
+      121 Loring Ave, Suite 920, Salem, MA 01970.
     </p>
     <p>
-      <a href="tel:+12223334567" class="cell-contact">+1 222-333-4567</a>
+      <a href="tel:+1 608-905-4812" class="cell-contact">+1 608-905-4812</a>
     </p>
   </div>
 </template>

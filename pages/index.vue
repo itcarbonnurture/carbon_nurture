@@ -105,11 +105,11 @@ for generations to come.</h4>
  <!-- desctop btn -->
 <div class="d-flex align-items-center justify-content-center my-4 desctop-btn">
   <!-- Вся кнопка теперь является ссылкой -->
-  <a href="tel:+12223334567" class="call-btn d-flex align-items-center text-decoration-none">
+  <a href="tel:+1 608-905-4812" class="call-btn d-flex align-items-center text-decoration-none">
     <!-- Левая часть с текстом -->
     <div class="d-flex align-items-center px-3">
       <i class="bi bi-telephone-forward me-2 text-white fs-3"></i> 
-      <span class="text-white">Try our product now: <strong>+1 222-333-4567</strong></span>
+      <span class="text-white">Try our product now: <strong>+1 608-905-4812</strong></span>
     </div>
     
     <!-- Текст кнопки -->
@@ -121,11 +121,11 @@ for generations to come.</h4>
  <!-- mobail btn -->
 <div class="d-flex align-items-center justify-content-center my-4 mobail-btn3">
   <!-- Вся кнопка теперь является ссылкой -->
-  <a href="tel:+12223334567" class="call-btn2 d-flex align-items-center text-decoration-none">
+  <a href="tel:+1 608-905-4812" class="call-btn2 d-flex align-items-center text-decoration-none">
     <!-- Левая часть с текстом -->
     <div class="d-flex align-items-center px-3">
       <i class="bi bi-telephone-forward me-2 text-white fs-3"></i> 
-      <span class="text-white">Try our product now: <strong><br class="mobile-break">+1 222-333-4567</strong></span>
+      <span class="text-white">Try our product now: <strong><br class="mobile-break">+1 608-905-4812</strong></span>
     </div>
     
     <!-- Текст кнопки -->
@@ -149,10 +149,10 @@ for generations to come.</h4>
     <!-- Desctop btn-->
   <div class="position-absolute start-50 translate-middle-x" style="top: 65%;">
   <!-- Вся кнопка теперь является ссылкой -->
-  <a href="tel:+12223334567" class="call-btn2 d-flex align-items-center text-decoration-none">
+  <a href="tel:+1 608-905-4812" class="call-btn2 d-flex align-items-center text-decoration-none">
     <!-- Левая часть с текстом -->
     <div class="d-flex align-items-center px-3">
-      <span class="text-white">Try our product now: <strong><br class="mobile-break">+1 222-333-4567</strong></span>
+      <span class="text-white">Try our product now: <strong><br class="mobile-break">+1 608-905-4812</strong></span>
     </div>
 
     <!-- Текст кнопки -->
@@ -175,11 +175,11 @@ for generations to come.</h4>
     <!-- Левая часть с текстом -->
     <div class="d-flex align-items-center px-3">
       <i class="bi bi-telephone-forward me-2 text-white fs-3"></i> 
-      <span class="text-white">Try our product now: <strong><br>+1 222-333-4567</strong></span>
+      <span class="text-white">Try our product now: <strong><br>+1 608-905-4812</strong></span>
     </div>
 
     <!-- Кнопка "Call now" -->
-    <a href="tel:+12223334567" class="call-action">
+    <a href="tel:+1 608-905-4812" class="call-action">
       Call now <i class="bi bi-arrow-right-circle ms-1 fs-3"></i>
     </a>
   </div>
