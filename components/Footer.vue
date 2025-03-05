@@ -24,7 +24,7 @@
       <h2 class="footer-heading">Legal</h2>
       <ul class="list-unstyled">
         <li><a href="/faq" class="py-1 d-block">Terms & Conditions</a></li>
-        <li><a href="/faq" class="py-1 d-block">Privacy Policy</a></li>
+        <li><a href="/privacy_policy" class="py-1 d-block">Privacy Policy</a></li>
         <li><a href="/faq" class="py-1 d-block">Refund Policy</a></li>
       </ul>
     </div>
@@ -32,7 +32,7 @@
     <div class="col-3 col-md-3 mb-4">
       <h2 class="footer-heading">FAQ</h2>
       <ul class="list-unstyled">
-        <li><a href="/faq" class="py-1 d-block">Questions FAQ</a></li>
+        <li><a href="/faq" class="py-1 d-block">Questions</a></li>
       </ul>
     </div>
   </div>
@@ -55,7 +55,7 @@
   </li>
 </ul>
 
-              <h2 class="footer-heading mt-5">Subscribe Us</h2>
+              <h2 class="footer-heading mt-5">Subscribe</h2>
               <form @submit.prevent="submitSubscription" class="subscribe-form">
   <div class="form-group d-flex">
     <input
