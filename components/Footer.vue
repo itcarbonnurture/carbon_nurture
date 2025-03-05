@@ -9,7 +9,7 @@
       <h2 class="footer-heading">Shop</h2>
       <ul class="list-unstyled">
         <li><a href="/shop" class="py-1 d-block">Products</a></li>
-        <li><a href="/shop" class="py-1 d-block">Special Offers</a></li>
+    
       </ul>
     </div>
     
@@ -23,9 +23,9 @@
     <div class="col-3 col-md-3 mb-4">
       <h2 class="footer-heading">Legal</h2>
       <ul class="list-unstyled">
-        <li><a href="/faq" class="py-1 d-block">Terms & Conditions</a></li>
-        <li><a href="/privacy_policy" class="py-1 d-block">Privacy Policy</a></li>
-        <li><a href="/faq" class="py-1 d-block">Refund Policy</a></li>
+        <li><a href="/terms_of_use.pdf" class="py-1 d-block">Terms & Conditions</a></li>
+        <li><a href="/privacy_policy.pdf" class="py-1 d-block">Privacy Policy</a></li>
+    
       </ul>
     </div>
     
