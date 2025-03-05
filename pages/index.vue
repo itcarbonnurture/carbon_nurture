@@ -63,8 +63,8 @@
       <div class="card h-100 position-relative shadow-hover">
         <img src="/assets/images/card-img1.jpg" class="card-img-top rounded-top" alt="Small Package" />
         <div class="card-body d-flex flex-column"> <!-- Flexbox для выравнивания -->
-          <h5 class="card-title text-center">Healthy Soil</h5>
-          <p class="card-text text-center flex-grow-1">Soil Enrichment: Returning organic carbon and micronutrients back to the soil after degradation.</p>
+          <h5 class="card-title text-center">Soil Enrichment</h5>
+          <p class="card-text text-center flex-grow-1">Returning organic carbon and micronutrients back to the soil after degradation.</p>
         </div>
       </div>
     </div>
@@ -74,8 +74,8 @@
       <div class="card h-100 position-relative shadow-hover">
         <img src="/assets/images/card-img3.jpg" class="card-img-top rounded-top" alt="Small Package" />
         <div class="card-body d-flex flex-column"> <!-- Flexbox для выравнивания -->
-          <h5 class="card-title text-center">Time and money savings</h5>
-          <p class="card-text text-center flex-grow-1">Cost and time savings: remove pickup, hauling, and disposal expenses to optimize your resources.</p>
+          <h5 class="card-title text-center">Time and Money Savings</h5>
+          <p class="card-text text-center flex-grow-1">Remove pickup, hauling, and disposal expenses to optimize your resources.</p>
         </div>
       </div>
     </div>
@@ -85,8 +85,8 @@
       <div class="card h-100 position-relative shadow-hover">
         <img src="/assets/images/card-img2.jpg" class="card-img-top rounded-top" alt="Large Package" />
         <div class="card-body d-flex flex-column"> <!-- Flexbox для выравнивания -->
-          <h5 class="card-title text-center">Personalized Solutions</h5>
-          <p class="card-text text-center flex-grow-1">Reducing Carbon Footprint: Decreasing fuel and waste from removing film and hauling while also increasing soil carbon sequestration.</p>
+          <h5 class="card-title text-center">Reducing Carbon Footprint</h5>
+          <p class="card-text text-center flex-grow-1"> Decreasing fuel and waste from removing film and hauling while also increasing soil carbon sequestration.</p>
         </div>
       </div>
     </div>
