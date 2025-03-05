@@ -49,7 +49,7 @@
     </a>
   </li>
   <li class="ftco-animate">
-    <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=61573299985726" title="LinkedIn">
+    <a href="https://www.linkedin.com/company/carbon-nurture/" title="LinkedIn">
       <i class="bi bi-linkedin social-icon"></i> <!-- Исправлено -->
     </a>
   </li>
