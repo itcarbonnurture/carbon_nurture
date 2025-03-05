@@ -16,12 +16,12 @@
             <!-- Иконка 1 -->
             <div class="col-md-3 col-6">
               <img src="/assets/images/icon1.png" alt="Non-Toxic Natural Minerals" class="icon-img">
-              <p class="icon-text">Non-Toxic<br>Natural Minerals</p>
+              <p class="icon-text">Non-Toxic<br>natural minerals</p>
             </div>
 
             <!-- Плюс -->
             <div class="col-md-1 col-2 align-self-center">
-              <h1 class="math-symbol">+</h1>
+              <h1 class="math-symbol fw-normal">+</h1>
             </div>
 
             <!-- Иконка 2 -->
@@ -32,7 +32,7 @@
 
             <!-- Равно -->
             <div class="col-md-1 col-2 align-self-center">
-              <h1 class="math-symbol">=</h1>
+              <h1 class="math-symbol fw-normal">=</h1>
             </div>
 
             <!-- Иконка 3 -->
@@ -50,7 +50,7 @@
                 (1 month - 2 years) <br>
                 Patented technology <br>
                 Degrades in natural environment <br>
-                No microplastic after complete biodegradation</p>
+                No microplastic after complete biodegradation*</p>
               </div>
             </div>
           </div>
@@ -108,11 +108,11 @@
                       <p class="standards-text">
     <strong>STANDARDS:</strong> 100% biodegradable per ASTM D6954, 5988 and EN17033 with exposure.
     Passes all soil toxicity tests - plants germination and growth per OECD208, earthworms acute toxicity per OECD 207, luminescent bacteria EN ISO 11348-3:2019, freshwater OECD test No. 202 or 211* <br>
-    *expected to pass these standards based on test data for similar materials.
+   <span class="fs-6 fw-normal"> <br> *expected to pass these standards based on test data for similar materials.
     <br> For more information about our product, please see 
     <a href="/product_information.pdf" class="text-decoration-underline" target="_blank">
         Product Performance and Test Data.
-    </a>
+    </a></span>
 </p>
 
                     </div>
@@ -182,11 +182,11 @@
  <p class="standards-text">
   <strong>STANDARDS:</strong> 100% biodegradable per ASTM D6954, 5988 and EN17033 with exposure.
     Passes all soil toxicity tests - plants germination and growth per OECD208, earthworms acute toxicity per OECD 207, luminescent bacteria EN ISO 11348-3:2019, freshwater OECD test No. 202 or 211* <br>
-    *expected to pass these standards based on test data for similar materials.
+    <span class="fs-6 fw-normal"> <br> *expected to pass these standards based on test data for similar materials.
     <br> For more information about our product, please see 
     <a href="/product_information.pdf" class="text-decoration-underline" target="_blank">
         Product Performance and Test Data.
-    </a>
+    </a></span>
 </p>
 </div>
 
