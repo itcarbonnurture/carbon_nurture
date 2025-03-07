@@ -7,7 +7,7 @@
         <img src="/assets/images/baner3.png" alt="Hero Image" class="hero-image">
         <div class="content-wrapper">
           <div class="arrow arrow-right"></div>
-          <nuxt-link class="btn btn-primary text-dark btn-lg custom-btn" :to="'/shop'">Purchase Now</nuxt-link>
+          <nuxt-link class="btn btn-primary text-dark btn-lg custom-btn" :to="'#'">Purchase Now</nuxt-link><!-- /shop -->
         </div>
       </div>
 

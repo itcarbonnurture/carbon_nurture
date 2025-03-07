@@ -57,7 +57,7 @@ const isActive = (path) => route.path === path;
               <nuxt-link class="nav-link" :class="{ active: isActive('/technology') }" to="/technology" @click="closeMenu">About</nuxt-link>
             </li>
             <li class="nav-item">
-              <nuxt-link class="nav-link" :class="{ active: isActive('/products') }" to="/shop" @click="closeMenu">Products</nuxt-link>
+              <nuxt-link class="nav-link" :class="{ active: isActive('/products') }" to="#" @click="closeMenu">Products</nuxt-link> <!-- /shop -->
             </li>
             <li class="nav-item">
               <nuxt-link class="nav-link" :class="{ active: isActive('/technology') }" to="/technology" @click="closeMenu">Technology</nuxt-link>
@@ -68,7 +68,7 @@ const isActive = (path) => route.path === path;
           </ul>
 
           <!-- CTA-кнопка -->
-          <nuxt-link class="btn btn-primary text-dark cta-btn" to="/shop" @click="closeMenu">Purchase Now</nuxt-link>
+          <nuxt-link class="btn btn-primary text-dark cta-btn" to="#" @click="closeMenu">Purchase Now</nuxt-link> <!-- /shop -->
         </div>
       </div>
     </nav>
