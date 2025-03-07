@@ -428,6 +428,7 @@ display: none;
   align-items: center;
   gap: 20px; /* Отступ между текстом и флагом */
   z-index: 10; /* Флаг и текст поверх контента */
+  flex-direction: column;
 }
 
 /* Стиль текста */
