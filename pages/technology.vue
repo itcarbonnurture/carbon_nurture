@@ -64,7 +64,7 @@
 <br>
    <!-- about -->
    <div class="container">
-    <h2 class="text-dark text-center">ABOUT US</h2>
+    <h2 class="text-dark text-center text-about">ABOUT US</h2>
   </div>
 
    <div class="container-fluid2 position-relative ">
@@ -457,6 +457,11 @@ display: none;
 @media (max-width: 1440px) {
   /* CSS-правила для больших ноутбуков и мониторов */
 }
+@media (min-width: 1200px) and (max-width: 1355px) {
+  .text-about {
+    margin-bottom: calc(32px + (64 - 32) * (1355px - 100vw) / (1355 - 992));
+  }
+}
 
 @media (max-width: 1355px) {
 .banner-info{
@@ -490,9 +495,7 @@ display: none;
   box-sizing: border-box;
 }
 }
-@media (min-width: 1200px) {
 
-}
 @media (max-width: 1024px) {
   /* CSS-правила для небольших ноутбуков и десктопов */
 }
