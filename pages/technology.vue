@@ -477,8 +477,18 @@ display: none;
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
+  .container-fluid2{
+  display: none;
+}
 
+.container-fluid3 {
+  display: block;
+ padding: 10px 20px;
+  margin: 0 auto; /* Центрирует контейнер */
+  width: 100%;
+  box-sizing: border-box;
+}
 }
 @media (min-width: 1200px) {
 
@@ -495,17 +505,7 @@ display: none;
 .ferst-teh{
   display: none;
 }
-.container-fluid2{
-  display: none;
-}
 
-.container-fluid3 {
-  display: block;
- padding: 10px 20px;
-  margin: 0 auto; /* Центрирует контейнер */
-  width: 100%;
-  box-sizing: border-box;
-}
 
 .banner-info-custom {
   display: block;
