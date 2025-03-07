@@ -92,7 +92,7 @@
                 <div class="col-md-6 col-12 d-flex flex-column align-items-center">
                     <div class="icon-box text-center">
                         <img src="/assets/images/icon6.png" alt="Icon 3" class="icon-img2">
-                        <p class="icon-text text-start">At their end-of-life they could be recycled biologically, physically or chemically. Biological recycling is designed to take place at natural environmental conditions and does not require high temperature composting infrastructure.</p>
+                        <p class="icon-text text-start">At their end-of-life CN products could be recycled biologically, physically or chemically. Biological recycling is designed to take place at natural environmental conditions and does not require high temperature composting infrastructure.</p>
                     </div>
                     <div class="icon-box text-center mt-4">
                         <img src="/assets/images/icon7.png" alt="Icon 4" class="icon-img2">
@@ -106,7 +106,7 @@
                 <div class="col-md-8">
                     <div class="standards-box">
                       <p class="standards-text">
-    <strong>STANDARDS:</strong> 100% biodegradable per ASTM D6954, 5988 and EN17033 with exposure.
+    <strong>STANDARDS:</strong> 100% biodegradable under 2 years per ASTM D6954, 5988 and EN17033 with exposure.
     Passes all soil toxicity tests - plants germination and growth per OECD208, earthworms acute toxicity per OECD 207, luminescent bacteria EN ISO 11348-3:2019, freshwater OECD test No. 202 or 211* <br>
    <span class="fs-6 fw-normal"> <br> *expected to pass these standards based on test data for similar materials.
     <br> For more information about our product, please see 
@@ -180,7 +180,7 @@
 
 <div class="standards-box">
  <p class="standards-text">
-  <strong>STANDARDS:</strong> 100% biodegradable per ASTM D6954, 5988 and EN17033 with exposure.
+  <strong>STANDARDS:</strong> 100% biodegradable under 2 years per ASTM D6954, 5988 and EN17033 with exposure.
     Passes all soil toxicity tests - plants germination and growth per OECD208, earthworms acute toxicity per OECD 207, luminescent bacteria EN ISO 11348-3:2019, freshwater OECD test No. 202 or 211* <br>
     <span class="fs-6 fw-normal"> <br> *expected to pass these standards based on test data for similar materials.
     <br> For more information about our product, please see 
